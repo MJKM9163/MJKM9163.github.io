@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.7dccd5e7.css",
-    "main.js": "/static/js/main.e2a054a6.js",
+    "main.js": "/static/js/main.7a8eac32.js",
     "static/js/787.bb72d4f1.chunk.js": "/static/js/787.bb72d4f1.chunk.js",
     "static/media/starField2.jpg": "/static/media/starField2.4e6c67bf6b571c09412e.jpg",
     "static/media/starField1.jpg": "/static/media/starField1.0d219a684b3a48212c19.jpg",
     "static/media/starField3.jpg": "/static/media/starField3.0d219a684b3a48212c19.jpg",
     "index.html": "/index.html",
     "main.7dccd5e7.css.map": "/static/css/main.7dccd5e7.css.map",
-    "main.e2a054a6.js.map": "/static/js/main.e2a054a6.js.map",
+    "main.7a8eac32.js.map": "/static/js/main.7a8eac32.js.map",
     "787.bb72d4f1.chunk.js.map": "/static/js/787.bb72d4f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dccd5e7.css",
-    "static/js/main.e2a054a6.js"
+    "static/js/main.7a8eac32.js"
   ]
 }
